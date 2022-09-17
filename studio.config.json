@@ -1,0 +1,39 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   "introduction",
+   [
+    "tokens",
+    [
+     "typography",
+     "colors",
+     "spacing",
+     "elevation",
+     "border-radius",
+     "transition",
+     "z-index",
+     "theme"
+    ]
+   ],
+   [
+    "components",
+    [
+     "button",
+     "icon",
+     "InputSelect"
+    ]
+   ],
+   [
+    "infrastructure",
+    [
+     "doc-layout",
+     "types"
+    ]
+   ]
+  ]
+ },
+ "doc": {
+  "markdownEngine": "vue"
+ }
+}
